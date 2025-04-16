@@ -1,0 +1,51 @@
+﻿ID,Work Item Type,Title,Test Step,Step Action,Step Expected,Area Path,Assigned To,State
+,Test Case,101061- AUCTIONS table includes all fields from ERA solution,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,When the user views the AUCTIONS table,,,,
+,,,4,Then the table should include all fields defined in the ERA solution,,,,
+,Test Case,10161- Verify HORSE SALES table includes all fields from ERA solution,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,When the user views the HORSE SALES table,,,,
+,,,4,Then the table should include all fields defined in the ERA solution,,,,
+,Test Case,10161- Verify FORMS table includes all fields from ERA solution,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,When the user views the FORMS table,,,,
+,,,4,Then the table should include all fields defined in the ERA solution,,,,
+,Test Case,10161- Verify User accesses Active Auction View,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,"When the user clicks on the ""Active Auction View"" menu option",,,,
+,,,4,Then the user should see a list of active auctions,,,,
+,Test Case,10161- Verify User accesses Add/Maintain Auction functionality,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,"When the user clicks on the ""Add/Maintain Auction"" menu option",,,,
+,,,4,Then the user should be able to add or maintain auction details,,,,
+,Test Case,10161- Verify User accesses All Sales Movements View,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,"When the user clicks on the ""All Sales Movements View"" menu option",,,,
+,,,4,Then the user should see a list of all sales movements,,,,
+,Test Case,10161- Verify User accesses Add/Maintain Sales Movements functionality,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,"When the user clicks on the ""Add/Maintain"" option in the All Sales Movements View",,,,
+,,,4,Then the user should be able to add or maintain sales movement details,,,,
+,Test Case,10161- Verify User accesses Upload Pedigree functionality,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,    And the user has the necessary permissions,,,,
+,,,3,"    When the user clicks on the ""Upload Pedigree"" option in the All Sales Movements View",,,,
+,,,4,    Then the user should be able to upload pedigree information,,,,
+,Test Case,10161- Verify User accesses Horse Sales Results View,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1, Given the user is logged into the JCSA system,,,,
+,,,2,    And the user has the necessary permissions,,,,
+,,,3,"    When the user clicks on the ""Horse Sales Results View"" menu option",,,,
+,,,4,    Then the user should see a list of horse sales results,,,,
+,Test Case,10161- Verify User accesses Add/Maintain Horse Sales Results functionality,,,,Weatherbys - Saudi Project,Sadaf Minhas <sadaf.minhas@tekenable.com>,Design
+,,,1,Given the user is logged into the JCSA system,,,,
+,,,2,And the user has the necessary permissions,,,,
+,,,3,"When the user clicks on the ""Add/Maintain"" option in the Horse Sales Results View",,,,
+,,,4,Then the user should be able to add or maintain horse sales results details,,,,
